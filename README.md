@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/praabindh/Flick-Bytes">
-    <img src="src/assets/images/lightLogo.png" alt="FlickBytes" width="252" height="85">
+    <img src="src/assets/images/lightLogo.png" alt="FlickBytes" width="252" height=auto>
   </a>
 
   <h2 align="center">The FlickBytes By Praabindh</h2>
@@ -23,100 +23,146 @@
     ·
     <a href="https://github.com/praabindh/Flick-Bytes/issues">Request Feature</a>
   </p>
+
+  <div align="center">
+  <img src="FlickByte-Merch/Usage/FlickByte-Merch-10-removebg-preview.png" alt="FlickBytes">
+  </div>
+
 </div>
 <br>
-<div align="center">
-
-![FlickByte Merch Cap - 1](https://iili.io/HUNoJ2f.png)
-
-</div>
-
 <!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
+
+### Table of Contents
+
+<ol>
+<li>
+    <a href="#about-the-project">About The Project</a>
+</li>
+<li>
+    <a href="#getting-started">Getting Started</a>
+    <ul>
+    <li><a href="#prerequisites">Prerequisites</a></li>
+    <li><a href="#installation">Installation</a></li>
+    </ul>
+</li>
+<li><a href="#usage">Usage</a></li>
+<li><a href="#contributing">Contributing</a></li>
+<li><a href="#license">License</a></li>
+<li><a href="#contact">Contact</a></li>
+<li><a href="#acknowledgments">Acknowledgments</a></li>
+</ol>
 
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
+
 FlickBytes by Praabindh's Org is an innovative web application that offers a comprehensive platform for movie enthusiasts to explore, interact with, and discover new films. With its powerful creativity and utilization of advanced JavaScript tools, such as React.js, Redux, Material UI, and Alan AI, FlickBytes delivers an engaging user experience.
 
-<div align="center">
-
-![FlickByte Computer](https://iili.io/HUNod74.png)
-
-</div>
+  <div align="center">
+  <img src="FlickByte-Merch/Usage/FlickByte-Merch-11-removebg-preview.png" alt="FlickBytes">
+  </div>
 
 ## Features
+
 #### User Authentication
+
 This feature allows users to create accounts, log in, and manage their personal information.
 
 #### Light & Dark Mode
+
 FlickBytes offers a choice between light and dark themes, allowing users to customize the appearance of the application according to their preferences.
 
 #### API Calls With Axios & Redux
+
 Axios is a JavaScript library used for making HTTP requests, and Redux is a state management library. These technologies enable the application to interact with external APIs and manage the data retrieved from those APIs efficiently.
 
 #### Actors & Movie Details Page
+
 Users can explore detailed information about movies, including information about actors involved in the production.
 
 #### Watchlist & List Of Favorite Movies
+
 This feature allows users to create a personal watchlist and mark movies as their favorites, making it easier for them to keep track of the movies they want to watch or have enjoyed.
 
 #### Movie Search Functionality
+
 Users can search for specific movies based on their titles, genres, or other criteria.
 
+## Project's Live Shots
+
+Within this compilation, we proudly present a curated selection of captivating snapshots that were skillfully captured during the dynamic and enthralling live phase of the project.
+
+<p align="right">(<a href="#top"> Back To Top </a>)</p>
+
+### FlickByte | The Home
+
+![FlickBytes Home](https://iili.io/HUNhQXS.png)
+
+### FlickByte | All Genres
+
+![FlickBytes Genres](https://iili.io/HUNhweR.png)
+
+### FlickByte | Movie Listing
+
+This feature may provide several filtering and sorting options, enabling users to search for movies based on specific criteria, such as movie ratings, genre, or release date.
+
+![FlickBytes Movie Listing](https://iili.io/HUNhggs.png)
+
+### FlickByte | Movie Information
+
+Well-structured and visually appealing layout that showcases all relevant information about the selected movie. This may include details such as the movie's title, release date, duration, genre, director, and cast members.
+
+![FlickBytes Movie Information](https://iili.io/HUNhWga.png)
+
+### FlickByte | Movie Search
+
+Empowers users to quickly and efficiently find specific movies based on their preferences and search criteria. It serves as a dedicated search functionality designed to enhance the movie discovery experience for users.
+
+![FlickBytes Movie Search](https://iili.io/HUNh4dG.png)
+
+### FlickByte | My Profile
+
+Allows users to manage their personal information, preferences, and activity within the platform. It serves as a dedicated section where users can access and customize their profile settings. This includes users' watchlist & favorite movies within the platform.
+
+![FlickBytes My Profile](https://iili.io/HUNh67f.png)
+
+### FlickByte | Light Mode
+
+The overall design and color palette of the application are adjusted to create a visually lighter and brighter experience. This typically involves using lighter shades for backgrounds, text, buttons, and other interface elements.
+
+![FlickBytes Light Mode](https://iili.io/HUNhj5v.png)
+
+### FlickByte | A.I. Search
+
+The AI-powered search system analyzes the input and applies sophisticated algorithms to understand the user's intent and retrieve the most relevant and accurate results.
+
+![FlickBytes AI Search](https://iili.io/HUNhhdJ.png)
+
+### FlickByte | Popular Featured
+
+![FlickBytes Popular Featured](https://iili.io/HUNhPe4.png)
+
+### FlickByte | Recommendations
+
+![FlickBytes Recommendations](https://iili.io/HUNhLI2.png)
+
 #### Alan AI Voice Functionality & Many More.
+
 Alan AI is an AI-powered voice assistant. By integrating Alan AI into FlickBytes, users can interact with the application using voice commands, making the user experience more intuitive and hands-free.
 
 In addition to these features, it's mentioned that FlickBytes combines powerful creativity with technologies such as React.js, Redux, Material UI, and more. React.js is a popular JavaScript library for building user interfaces, Redux is a state management library, and Material UI is a UI component library that provides pre-styled components for a consistent and visually appealing design.
 
 <p align="right">(<a href="#top"> Back To Top </a>)</p>
 
-## Project's Live Shots
-Here are a few snapshots captured during the project's live phase
-### FlickByte | The Home
-![FlickBytes Home](https://iili.io/HUNhQXS.png)
-### FlickByte | All Genres
-![FlickBytes Genres](https://iili.io/HUNhweR.png)
-### FlickByte | Movie Listing
-![FlickBytes Movie Listing](https://iili.io/HUNhggs.png)
-### FlickByte | Movie Information
-![FlickBytes Movie Information](https://iili.io/HUNhWga.png)
-### FlickByte | Movie Search
-![FlickBytes Movie Search](https://iili.io/HUNh4dG.png)
-### FlickByte | My Profile
-![FlickBytes My Profile](https://iili.io/HUNh67f.png)
-### FlickByte | Light Mode
-![FlickBytes Light Mode](https://iili.io/HUNhj5v.png)
-### FlickByte | A.I. Search
-![FlickBytes AI Search](https://iili.io/HUNhhdJ.png)
-### FlickByte | Popular Featured
-![FlickBytes Popular Featured](https://iili.io/HUNhPe4.png)
-### FlickByte | Recommendations
-![FlickBytes Recommendations](https://iili.io/HUNhLI2.png)
-
 ## FlickByte - Complete Project Description
 
 The FlickBytes project focuses on enhancing the movie browsing experience through a variety of features. User authentication ensures that users can create accounts, log in securely, and manage their personal information within the application. By offering both light and dark modes, FlickBytes allows users to customize the visual appearance of the interface to match their preferences.
 
 The application leverages Axios and Redux to seamlessly make API calls, facilitating data retrieval from external sources. This functionality enables FlickBytes to provide comprehensive information about movies, including details about actors involved in their production. Users can delve into actors' filmography and explore specific movie details, enhancing their understanding and appreciation of the film industry.
+
+  <div align="center">
+  <img src="FlickByte-Merch/Usage/FlickByte-Merch-removebg-preview.png" alt="FlickBytes">
+  </div>
 
 FlickBytes also offers a watchlist and a list of favorite movies, empowering users to curate personalized collections of films. This feature facilitates organization and tracking of movies users intend to watch or have already enjoyed. To further streamline the movie discovery process, a robust search functionality allows users to search for movies based on titles, genres, or other criteria, making it easier to find specific films or explore movies within their preferred genres.
 
@@ -125,6 +171,7 @@ One of the standout features of FlickBytes is its integration of Alan AI, an in-
 Overall, FlickBytes by Praabindh's Org combines a visually appealing user interface, advanced JavaScript tools, and a range of features to offer a dynamic and immersive movie browsing experience. Whether users are seeking information about movies, managing their film preferences, or discovering new titles, FlickBytes strives to provide an all-encompassing platform for movie enthusiasts.
 
 <!-- GETTING STARTED -->
+
 ## Getting Started
 
 To get a local copy up and running follow these simple steps
@@ -135,13 +182,15 @@ List of things you need to use and how to install them:
 <br><br>
 NPM - Node Package Manager
 
-  ```sh
-  npm install npm@latest -g
-  ```
+```sh
+npm install npm@latest -g
+```
 
 ### Installation
 
 Setup
+
+0. Install Node, NPM, NVM (If Required)
 
 1. Get a free TMDB API Key at [https://www.themoviedb.org/](https://www.themoviedb.org/).
 
@@ -150,10 +199,11 @@ Setup
    ```sh
    git clone https://github.com/praabindh/Flick-Bytes.git
    ```
+
 3. Install NPM packages:
 
    ```sh
-   npm install
+   npm install --legacy-peer-deps
    ```
 
 4. Create your `.env` file
@@ -167,17 +217,19 @@ Setup
 <p align="right">(<a href="#top"> Back To Top </a>)</p>
 
 <!-- USAGE EXAMPLES -->
+
 ## Usage
 
 For a full demonstration of all the functionalities of this phenomenal web application check out this [demo site](https://filmpire-jovan.netlify.app/).
 
-_For more detailes regarding TMDB API calls, please refer to the [Documentation](https://developers.themoviedb.org/3/getting-started/introduction)._
+\_For more detailes regarding TMDB API calls, please refer to the [Documentation](https://developers.themoviedb.org/3/getting-started/introduction).
 
 See the [open issues](https://github.com/praabindh/Flick-Bytes/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top"> Back To Top </a>)</p>
 
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -189,21 +241,22 @@ Don't forget to give the project a star! Thanks again!
 
 2. Create your Feature Branch
 
-```git checkout -b feature/AwesomeFeature```
+`git checkout -b feature/AwesomeFeature`
 
 3. Commit your Changes
 
-```git commit -m 'Added Some AwesomeFeature'```
+`git commit -m 'Added Some AwesomeFeature'`
 
 4. Push to the Branch
 
-```git push origin feature/AwesomeFeature```
+`git push origin feature/AwesomeFeature`
 
 5. Open a Pull Request
 
 <p align="right">(<a href="#top"> Back To Top </a>)</p>
 
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the [MIT](https://choosealicense.com/licenses/mit/) License. See `LICENSE.md` for more information.
@@ -211,6 +264,7 @@ Distributed under the [MIT](https://choosealicense.com/licenses/mit/) License. S
 <p align="right">(<a href="#top"> Back To Top </a>)</p>
 
 <!-- CONTACT -->
+
 ## Contact
 
 Praabindh Pradeep | Personal - [@praabindhp](https://github.com/praabindhp)
@@ -226,16 +280,25 @@ Project Link - [https://github.com/praabindh/Flick-Bytes](https://github.com/pra
 <p align="right">(<a href="#top"> Back To Top </a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
+
 ## Acknowledgments
 
 Used Resources:
 
-* [The Movie DB API Documentation](https://developers.themoviedb.org/3/getting-started/introduction)
-* [Alan AI Documentation](https://alan.app/docs/)
-* [MUI Library](https://mui.com/)
-* [JavaScript Mastery](https://www.jsmastery.pro/)
+- [The Movie DB API Documentation](https://developers.themoviedb.org/3/getting-started/introduction)
+- [Alan AI Documentation](https://alan.app/docs/)
+- [MUI Library](https://mui.com/)
+- [JavaScript Mastery](https://www.jsmastery.pro/)
 
 <p align="right">(<a href="#top"> Back To Top </a>)</p>
+
+  <div align="center">
+  <img src="FlickByte-Merch/Usage/FlickByte-Merch-8-removebg-preview.png" alt="FlickBytes">
+  </div>
+<br>
+<div align="center">
+<h3>Created & Documented By <a href="https://github.com/praabindhp"> Praabindh Pradeep </a></h3>
+</div>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [product-screenshot]: Snaps/Upcoming-Featured.png
