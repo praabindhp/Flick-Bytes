@@ -34,7 +34,7 @@ function Movies() {
         <Typography variant="h4">
           No movies that match that name.
           <br />
-          Please search for something else.
+          Please Search For Something Else
         </Typography>
       </Box>
     );

@@ -9,4 +9,5 @@ export default configureStore({
     currentGenreOrCategory: genreOrCategoryReducer,
     currentUser: authUserReducer,
   },
+  middleware: (getDefaultMiddleware) => getDefaultMiddleware().concat(tmdbApi.middleware),
 });
