@@ -23,7 +23,7 @@ function Movies() {
   if (error) {
     return (
       <Box display="flex" alignItems="center" mt="20px">
-        <Typography variant="h4">An error has occured.</Typography>
+        <Typography variant="h4">An Error Has Occured.</Typography>
       </Box>
     );
   }
@@ -32,7 +32,7 @@ function Movies() {
     return (
       <Box display="flex" alignItems="center" mt="20px">
         <Typography variant="h4">
-          No movies that match that name.
+          No Movies That Match That Name.
           <br />
           Please Search For Something Else
         </Typography>
