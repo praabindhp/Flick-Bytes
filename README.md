@@ -55,13 +55,15 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+FlickBytes by Praabindh's Org is an innovative web application that offers a comprehensive platform for movie enthusiasts to explore, interact with, and discover new films. With its powerful creativity and utilization of advanced JavaScript tools, such as React.js, Redux, Material UI, and Alan AI, FlickBytes delivers an engaging user experience.
 
-[![Product Name Screen Shot][product-screenshot]](https://filmpire-jovan.netlify.app/)
+<div align="center">
 
-The FlickBytes By Praabindh's Org combines the desire to unleash powerful creativity with the industry's most advanced JavaScript tools including React.js, Redux, Material UI, Alan AI, and a lot more.
+![FlickByte Computer](https://iili.io/HUNod74.png)
 
-### Features
+</div>
 
+## Features
 #### User Authentication
 This feature allows users to create accounts, log in, and manage their personal information.
 
@@ -83,21 +85,36 @@ Users can search for specific movies based on their titles, genres, or other cri
 #### Alan AI Voice Functionality & Many More.
 Alan AI is an AI-powered voice assistant. By integrating Alan AI into FlickBytes, users can interact with the application using voice commands, making the user experience more intuitive and hands-free.
 
-<div align="center">
-
-![FlickByte Computer](https://iili.io/HUNod74.png)
-
-</div>
-
 In addition to these features, it's mentioned that FlickBytes combines powerful creativity with technologies such as React.js, Redux, Material UI, and more. React.js is a popular JavaScript library for building user interfaces, Redux is a state management library, and Material UI is a UI component library that provides pre-styled components for a consistent and visually appealing design.
 
 <p align="right">(<a href="#top"> Back To Top </a>)</p>
 
+## Project's Live Shots
+Here are a few snapshots captured during the project's live phase
+### FlickByte | The Home
+![FlickBytes Home](https://iili.io/HUNhQXS.png)
+### FlickByte | All Genres
+![FlickBytes Genres](https://iili.io/HUNhweR.png)
+### FlickByte | Movie Listing
+![FlickBytes Movie Listing](https://iili.io/HUNhggs.png)
+### FlickByte | Movie Information
+![FlickBytes Movie Information](https://iili.io/HUNhWga.png)
+### FlickByte | Movie Search
+![FlickBytes Movie Search](https://iili.io/HUNh4dG.png)
+### FlickByte | My Profile
+![FlickBytes My Profile](https://iili.io/HUNh67f.png)
+### FlickByte | Light Mode
+![FlickBytes Light Mode](https://iili.io/HUNhj5v.png)
+### FlickByte | A.I. Search
+![FlickBytes AI Search](https://iili.io/HUNhhdJ.png)
+### FlickByte | Popular Featured
+![FlickBytes Popular Featured](https://iili.io/HUNhPe4.png)
+### FlickByte | Recommendations
+![FlickBytes Recommendations](https://iili.io/HUNhLI2.png)
+
 ## FlickByte - Complete Project Description
 
-FlickBytes by Praabindh's Org is an innovative web application that offers a comprehensive platform for movie enthusiasts to explore, interact with, and discover new films. With its powerful creativity and utilization of advanced JavaScript tools, such as React.js, Redux, Material UI, and Alan AI, FlickBytes delivers an engaging user experience.
-
-At its core, FlickBytes focuses on enhancing the movie browsing experience through a variety of features. User authentication ensures that users can create accounts, log in securely, and manage their personal information within the application. By offering both light and dark modes, FlickBytes allows users to customize the visual appearance of the interface to match their preferences.
+The FlickBytes project focuses on enhancing the movie browsing experience through a variety of features. User authentication ensures that users can create accounts, log in securely, and manage their personal information within the application. By offering both light and dark modes, FlickBytes allows users to customize the visual appearance of the interface to match their preferences.
 
 The application leverages Axios and Redux to seamlessly make API calls, facilitating data retrieval from external sources. This functionality enables FlickBytes to provide comprehensive information about movies, including details about actors involved in their production. Users can delve into actors' filmography and explore specific movie details, enhancing their understanding and appreciation of the film industry.
 
@@ -106,10 +123,6 @@ FlickBytes also offers a watchlist and a list of favorite movies, empowering use
 One of the standout features of FlickBytes is its integration of Alan AI, an in-app voice assistant. By incorporating Alan AI, the application enables users to interact with it through voice commands, providing a hands-free and intuitive experience. Users can perform various tasks, such as searching for movies, accessing movie details, and managing their watchlist, simply by speaking to Alan AI.
 
 Overall, FlickBytes by Praabindh's Org combines a visually appealing user interface, advanced JavaScript tools, and a range of features to offer a dynamic and immersive movie browsing experience. Whether users are seeking information about movies, managing their film preferences, or discovering new titles, FlickBytes strives to provide an all-encompassing platform for movie enthusiasts.
-
-## Project's Live Shots
-### Home
-![FlickBytes Home]()
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -193,7 +206,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.md` for more information.
+Distributed under the [MIT](https://choosealicense.com/licenses/mit/) License. See `LICENSE.md` for more information.
 
 <p align="right">(<a href="#top"> Back To Top </a>)</p>
 
@@ -203,6 +216,10 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 Praabindh Pradeep | Personal - [@praabindhp](https://github.com/praabindhp)
 
 Praabindh P | Codingmart - [@praabindhp](https://github.com/praabindh)
+
+Built During The Internship Phase Of Product Engineer In [Codingmart Technologies](https://codingmart.com/), Coimbatore, Tamil Nadu, India.
+
+#### Dated & Documented : May 17, 2023
 
 Project Link - [https://github.com/praabindh/Flick-Bytes](https://github.com/praabindh/Flick-Bytes)
 
