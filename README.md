@@ -138,6 +138,18 @@ The AI-powered search system analyzes the input and applies sophisticated algori
 
 ![FlickBytes AI Search](https://iili.io/HUNhhdJ.png)
 
+### FlickByte | Artist Informations
+
+Users with detailed information on the artists associated with a movie, such as the director, actors, and crew. It enables users to access comprehensive biographical data, career highlights, and other relevant information about the artists involved in a particular movie.
+
+![FlickBytes Artist Information](https://iili.io/HU8QHzv.png)
+
+### FlickByte | Video Player
+
+The video player provides standard controls such as play, pause, rewind, and fast-forward, allowing users to adjust the playback speed according to their preferences.
+
+![FlickBytes Video Player](https://iili.io/HU8LymJ.png)
+
 ### FlickByte | Popular Featured
 
 ![FlickBytes Popular Featured](https://iili.io/HUNhPe4.png)

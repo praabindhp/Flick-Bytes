@@ -33,7 +33,7 @@ function Profile() {
         </Button>
       </Box>
       {!favoriteMovies?.results?.length && !watchlistMovies?.results?.length
-        ? <Typography variant="h5">Add favorites or watchlist some movies to see them here!</Typography>
+        ? <Typography variant="h5">Add Favorites or Watchlist Some Movies To See Them Here!</Typography>
         : (
           <Box>
             <RatedCards title="Favorite Movies" data={favoriteMovies} />
