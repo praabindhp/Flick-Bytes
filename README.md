@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/praabindh/Flick-Bytes">
-    <img src="src/assets/images/lightLogo.png" alt="FlickBytes" width="252" height=auto>
+    <img src="https://iili.io/HU8hpNs.png" alt="FlickBytes" width="252" height=auto>
   </a>
 
   <h2 align="center">The FlickBytes By Praabindh</h2>
@@ -25,7 +25,7 @@
   </p>
 
   <div align="center">
-  <img src="FlickByte-Merch/Usage/FlickByte-Merch-10-removebg-preview.png" alt="FlickBytes">
+  <img src="https://iili.io/HU8jxxj.png" alt="FlickBytes">
   </div>
 
 </div>
@@ -59,7 +59,7 @@
 FlickBytes by Praabindh's Org is an innovative web application that offers a comprehensive platform for movie enthusiasts to explore, interact with, and discover new films. With its powerful creativity and utilization of advanced JavaScript tools, such as React.js, Redux, Material UI, and Alan AI, FlickBytes delivers an engaging user experience.
 
   <div align="center">
-  <img src="FlickByte-Merch/Usage/FlickByte-Merch-11-removebg-preview.png" alt="FlickBytes">
+  <img src="https://iili.io/HU8jzWx.png" alt="FlickBytes">
   </div>
 
 ## Features
@@ -161,7 +161,7 @@ The FlickBytes project focuses on enhancing the movie browsing experience throug
 The application leverages Axios and Redux to seamlessly make API calls, facilitating data retrieval from external sources. This functionality enables FlickBytes to provide comprehensive information about movies, including details about actors involved in their production. Users can delve into actors' filmography and explore specific movie details, enhancing their understanding and appreciation of the film industry.
 
   <div align="center">
-  <img src="FlickByte-Merch/Usage/FlickByte-Merch-removebg-preview.png" alt="FlickBytes">
+  <img src="https://iili.io/HU8jIiQ.png" alt="FlickBytes">
   </div>
 
 FlickBytes also offers a watchlist and a list of favorite movies, empowering users to curate personalized collections of films. This feature facilitates organization and tracking of movies users intend to watch or have already enjoyed. To further streamline the movie discovery process, a robust search functionality allows users to search for movies based on titles, genres, or other criteria, making it easier to find specific films or explore movies within their preferred genres.
@@ -293,7 +293,7 @@ Used Resources:
 <p align="right">(<a href="#top"> Back To Top </a>)</p>
 
   <div align="center">
-  <img src="FlickByte-Merch/Usage/FlickByte-Merch-8-removebg-preview.png" alt="FlickBytes">
+  <img src="https://iili.io/HU8jufV.png" alt="FlickBytes">
   </div>
 <br>
 <div align="center">
