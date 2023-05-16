@@ -217,7 +217,6 @@ Setup
 <p align="right">(<a href="#top"> Back To Top </a>)</p>
 
 <!-- USAGE EXAMPLES -->
-
 ## Usage
 
 For a full demonstration of all the functionalities of this phenomenal web application check out this [demo site](https://filmpire-jovan.netlify.app/).
