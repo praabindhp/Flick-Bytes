@@ -296,7 +296,7 @@ Used Resources:
   </div>
 <br>
 <div align="center">
-<h3>Created & Documented By <a href="https://github.com/praabindhp"> Praabindh Pradeep </a></h3>
+<h3>Created & Documented By <a href="https://praabindhp.github.io/Praabindh_Resume/"> Praabindh Pradeep </a></h3>
 </div>
 
 <!-- MARKDOWN LINKS & IMAGES -->
