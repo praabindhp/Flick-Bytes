@@ -17,7 +17,7 @@
     <a href="https://github.com/praabindh/Flick-Bytes"><strong>Explore The Project >></strong></a>
     <br />
     <br />
-    <a href="https://filmpire-jovan.netlify.app/">View Demo Site</a>
+    <a href="https://flickbytes.netlify.app/">View Demo Site</a>
     ·
     <a href="https://github.com/praabindh/Flick-Bytes/issues">Report Bug</a>
     ·
@@ -231,7 +231,7 @@ Setup
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-For a full demonstration of all the functionalities of this phenomenal web application check out this [demo site](https://filmpire-jovan.netlify.app/).
+For a full demonstration of all the functionalities of this phenomenal web application check out this [demo site](https://flickbytes.netlify.app/).
 
 \_For more detailes regarding TMDB API calls, please refer to the [Documentation](https://developers.themoviedb.org/3/getting-started/introduction).
 
@@ -280,7 +280,7 @@ Distributed under the [MIT](https://choosealicense.com/licenses/mit/) License. S
 
 Praabindh Pradeep | Personal - [@praabindhp](https://github.com/praabindhp)
 
-Praabindh P | Codingmart - [@praabindhp](https://github.com/praabindh)
+Praabindh P | Codingmart - [@praabindh](https://github.com/praabindh)
 
 Built During The Internship Phase Of Product Engineer In [Codingmart Technologies](https://codingmart.com/), Coimbatore, Tamil Nadu, India.
 
