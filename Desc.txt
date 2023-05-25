@@ -1,0 +1,12 @@
+I Would Like To Introduce My Project 🎬 The FLICKBYTES - By Praabindh's Org
+The FlickBytes - AI Powered Movie App [React.js, Material UI, Alan AI]
+
+Live Project Link: https://flickbytes.netlify.app/
+
+FlickBytes By Praabindh's Org is an innovative web application that offers a comprehensive platform for movie enthusiasts to explore, interact with, and discover new films. With its powerful creativity and utilization of advanced JavaScript tools, such as React.js, Redux, Material UI, and Alan AI, FlickBytes delivers an engaging user experience.
+
+GitHub Project Link: https://github.com/praabindh/Flick-Bytes
+Project Description And Documentation: https://github.com/praabindh/Flick-Bytes/blob/main/README.md
+Project Demo Link: https://flickbytes.netlify.app/
+
+Built During The Internship Phase Of Product Engineer In Codingmart Technologies, Coimbatore, Tamil Nadu, India.
